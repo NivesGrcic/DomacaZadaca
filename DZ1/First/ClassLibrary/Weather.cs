@@ -1,14 +1,14 @@
 ﻿using System;
-
-namespace DZ_1
+namespace ClassLibrary
 {
     public class Weather
     {
+        
         private double temperature;
         private double humidity;
         private double windSpeed;
 
-       public Weather(){}
+        public Weather(){}
         
         public Weather(double temperature, double humidity, double windSpeed)
         {

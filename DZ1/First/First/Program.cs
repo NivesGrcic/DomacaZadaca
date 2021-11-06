@@ -1,10 +1,17 @@
 ﻿using System;
+using ClassLibrary;
 
-namespace DZ_1
+namespace First
 {
+    
     class Program
     {
-        static Weather FindWeatherWithLargestWindchill(Weather[] weathers)
+        
+        static void Main(string[] args)
+        {
+            
+                
+            static Weather FindWeatherWithLargestWindchill(Weather[] weathers)
         {
             int largestWindChillIndex = 0;
             for (int i = 0; i < weathers.Length; i++)
@@ -46,6 +53,7 @@ namespace DZ_1
                 "Weather info:" + largestWindchill.GetTemperature() + ", " +
                 largestWindchill.GetHumidity() + ", " + largestWindchill.GetWindSpeed()
             );
+        }
         }
     }
 }
