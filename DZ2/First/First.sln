@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First", "First\First.csproj", "{04C26B4B-D98D-471F-AA5C-708ADDBDBC15}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWeatherUI", "ConsoleWeatherUI\ConsoleWeatherUI.csproj", "{04C26B4B-D98D-471F-AA5C-708ADDBDBC15}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{C66B93B6-65F6-4333-B715-BD9F41259176}"
 EndProject

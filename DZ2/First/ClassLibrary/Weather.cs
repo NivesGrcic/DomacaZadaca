@@ -70,6 +70,11 @@ namespace ClassLibrary
                    c8 * temperature * Math.Pow(humidity, 2) + c9 * Math.Pow(temperature, 2) * Math.Pow(humidity, 2);
         }
 
+        public string GetAsString()
+        {
+            return "T="+this.temperature+"°C" + " " +"w="+ this.windSpeed + "km/h " +"h="+ this.humidity+"%";
+        }
+
 
     }
 }
