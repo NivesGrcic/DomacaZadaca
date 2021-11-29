@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nives\\RiderProjects\\First\\ClassLibrary\\ClassLibrary.csproj": {}
+    "C:\\Users\\Nives\\Desktop\\DZ1\\DZ1\\First\\ClassLibrary\\ClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nives\\RiderProjects\\First\\ClassLibrary\\ClassLibrary.csproj": {
+    "C:\\Users\\Nives\\Desktop\\DZ1\\DZ1\\First\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nives\\RiderProjects\\First\\ClassLibrary\\ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Nives\\Desktop\\DZ1\\DZ1\\First\\ClassLibrary\\ClassLibrary.csproj",
         "projectName": "ClassLibrary",
-        "projectPath": "C:\\Users\\Nives\\RiderProjects\\First\\ClassLibrary\\ClassLibrary.csproj",
+        "projectPath": "C:\\Users\\Nives\\Desktop\\DZ1\\DZ1\\First\\ClassLibrary\\ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\Nives\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nives\\RiderProjects\\First\\ClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Nives\\Desktop\\DZ1\\DZ1\\First\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nives\\AppData\\Roaming\\NuGet\\NuGet.Config",
